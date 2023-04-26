@@ -13,3 +13,4 @@ In summary, pointers are a powerful and flexible feature of C that allow program
 
 # output 
 ![image](https://user-images.githubusercontent.com/93450820/234492678-af0849e1-64b1-4650-b7bb-545259febcb3.png)
+![image](https://user-images.githubusercontent.com/93450820/234493382-22b60904-f169-476f-a05d-d670507b15de.png)
