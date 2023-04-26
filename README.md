@@ -12,3 +12,4 @@ It is important to be careful when using pointers to avoid common errors like de
 In summary, pointers are a powerful and flexible feature of C that allow programmers to manipulate memory directly and create complex data structures. However, pointers can be tricky to use correctly, so it's important to understand how they work and be aware of common pitfalls when working with them.
 
 # output 
+![image](https://user-images.githubusercontent.com/93450820/234492678-af0849e1-64b1-4650-b7bb-545259febcb3.png)
